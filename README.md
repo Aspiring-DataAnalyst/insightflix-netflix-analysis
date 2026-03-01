@@ -23,6 +23,17 @@ https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies
 -  Movies dominate Netflix content compared to TV Shows  
 -  Significant growth in content release observed after 2015  
 -  High IMDb-rated content is limited but stands out clearly  
--  Drama and Comedy are among the most common genres  
+-  Drama and Comedy are among the most common genres
 -  Average runtime varies significantly between Movies and Shows  
 -  Content is produced across multiple countries, showing global reach  
+
+#  Project Visualizations
+#  Movies vs TV Shows
+  ![Movies vs Shows](movies_vs_shows.png)
+
+#  Content Growth Over Years
+  ![Content Growth](content_growth.png)
+
+#  Top Producing Countries
+  ![Top Countries](top_countries.png)
+
