@@ -1,6 +1,12 @@
 # insightflix-netflix-analysis
 This project analyzes Netflix movies and TV shows data using Python.It includes data cleaning, merging datasets, and exploratory data analysis (EDA) to uncover insights.
 
+# Dataset Source
+
+The dataset used in this project is publicly available.
+You can download it from:
+https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies
+
 # 🛠 Tools Used
 - Python
 - Pandas
