@@ -1,2 +1,22 @@
 # insightflix-netflix-analysis
-Netflix data analysis project including data cleaning, dataset merging, and exploratory data analysis (EDA) to generate meaningful insights and visualizations.
+This project analyzes Netflix movies and TV shows data using Python.It includes data cleaning, merging datasets, and exploratory data analysis (EDA) to uncover insights.
+
+# 🛠 Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+# 🔍 Tasks
+- Data Cleaning
+- Data Merging
+- EDA
+- Visualization
+
+#  Key Insights
+-  Movies dominate Netflix content compared to TV Shows  
+-  Significant growth in content release observed after 2015  
+-  High IMDb-rated content is limited but stands out clearly  
+-  Drama and Comedy are among the most common genres  
+-  Average runtime varies significantly between Movies and Shows  
+-  Content is produced across multiple countries, showing global reach  
